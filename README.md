@@ -4,11 +4,11 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Engineering at VJTI,India.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects and Extensions.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; I’m Inclined towards Mental health related projects   
+  - 🤔 &nbsp; Check out my latest project - Code helper (its a fun chrome extension !).
 </div> 
 </div>
 
