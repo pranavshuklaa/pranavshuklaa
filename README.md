@@ -4,9 +4,9 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎓 &nbsp; Studying Computer Engineering at VJTI,India.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects and data engineering projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🎓 &nbsp; Studied Computer Engineering at VJTI,India.
+  - 💼 &nbsp; I’m currently working as an data engineer at npci.
+  - 🌱 &nbsp; Learning more about AI and skills.
   - ✍️ &nbsp; I’m Inclined towards Mental health related projects   
   - 🤔 &nbsp; Check out my latest project - Flink data streaming.
 </div> 
